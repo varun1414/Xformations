@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 import re
+from to_csv import convert
 def clean(text):
     """Remove html tags from a string"""
     import re
@@ -35,4 +36,6 @@ for match in matches:
     match["formation"]=clean(match["formation"])
 
 
+
+convert(matches,'15_16')
 

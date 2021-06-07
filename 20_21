@@ -1,0 +1,54 @@
+comp,date,result,teams,score,formation
+LAL ,"Oct 1, 2020 ",W,"[Celta , Barcelona]",0 - 3,4231
+LAL ,"Oct 4, 2020 ",D,"[Barcelona , Sevilla FC ]",1 - 1,4231
+LAL ,"Oct 17, 2020 ",L,"[Getafe, Barcelona ]",1 - 0,4231
+UCL ,"Oct 20, 2020 ",W,"[Barcelona, Ferencváros ]",5 - 1,4231
+LAL ,"Oct 24, 2020 ",L,"[Barcelona , Real Madrid]",1 - 3,442
+UCL ,"Oct 28, 2020 ",W,"[Juventus , Barcelona]",0 - 2,4231
+LAL ,"Oct 31, 2020 ",D,"[Alavés , Barcelona ]",1 - 1,4231
+UCL ,"Nov 4, 2020 ",W,"[Barcelona, Dynamo Kyiv ]",2 - 1,4231
+LAL ,"Nov 7, 2020 ",W,"[Barcelona, Real Betis ]",5 - 2,442
+LAL ,"Nov 21, 2020 ",L,"[Atletico Madrid, Barcelona ]",1 - 0,4231
+UCL ,"Nov 24, 2020 ",W,"[Dynamo Kyiv , Barcelona]",0 - 4,4231
+LAL ,"Nov 29, 2020 ",W,"[Barcelona, Osasuna ]",4 - 0,433
+UCL ,"Dec 2, 2020 ",W,"[Ferencváros , Barcelona]",0 - 3,4231
+LAL ,"Dec 5, 2020 ",L,"[Cádiz CF, Barcelona ]",2 - 1,4231
+UCL ,"Dec 8, 2020 ",L,"[Barcelona , Juventus]",0 - 3,4231
+LAL ,"Dec 13, 2020 ",W,"[Barcelona, Levante ]",1 - 0,4231
+LAL ,"Dec 16, 2020 ",W,"[Barcelona, Real Sociedad ]",2 - 1,4231
+LAL ,"Dec 19, 2020 ",D,"[Barcelona , Valencia ]",2 - 2,4141
+LAL ,"Dec 22, 2020 ",W,"[Valladolid , Barcelona]",0 - 3,3421
+LAL ,"Dec 29, 2020 ",D,"[Barcelona , Eibar ]",1 - 1,3421
+LAL ,"Jan 3, 2021 ",W,"[Huesca , Barcelona]",0 - 1,433
+LAL ,"Jan 6, 2021 ",W,"[Athletic , Barcelona]",2 - 3,433
+LAL ,"Jan 9, 2021 ",W,"[Granada , Barcelona]",0 - 4,433
+SSC ,"Jan 13, 2021 ",D,"[Real Sociedad , Barcelona]",1 - 1,4231
+SSC ,"Jan 17, 2021 ",L,"[Barcelona , Athletic]",2 - 3,433
+CDR ,"Jan 21, 2021 ",W,"[Cornellà , Barcelona]",0 - 2,433
+LAL ,"Jan 24, 2021 ",W,"[Elche , Barcelona]",0 - 2,433
+CDR ,"Jan 27, 2021 ",W,"[Rayo Vallecano , Barcelona]",1 - 2,433
+LAL ,"Jan 31, 2021 ",W,"[Barcelona, Athletic ]",2 - 1,4231
+CDR ,"Feb 3, 2021 ",W,"[Granada , Barcelona]",3 - 5,433
+LAL ,"Feb 7, 2021 ",W,"[Real Betis , Barcelona]",2 - 3,433
+CDR ,"Feb 10, 2021 ",L,"[Sevilla FC, Barcelona ]",2 - 0,433
+LAL ,"Feb 13, 2021  ",W,"[Barcelona, Alavés ]",5 - 1,433
+UCL ,"Feb 16, 2021 ",L,"[Barcelona , PSG]",1 - 4,433
+LAL ,"Feb 21, 2021 ",D,"[Barcelona , Cádiz CF ]",1 - 1,433
+LAL ,"Feb 24, 2021 ",W,"[Barcelona, Elche ]",3 - 0,433
+LAL ,"Feb 27, 2021 ",W,"[Sevilla FC , Barcelona]",0 - 2,3142
+CDR ,"Mar 3, 2021 ",W,"[Barcelona, Sevilla FC ]",3 - 0,3142
+LAL ,"Mar 6, 2021 ",W,"[Osasuna , Barcelona]",0 - 2,3142
+UCL ,"Mar 10, 2021 ",D,"[PSG , Barcelona ]",1 - 1,3412
+LAL ,"Mar 15, 2021 ",W,"[Barcelona, Huesca ]",4 - 1,3421
+LAL ,"Mar 21, 2021 ",W,"[Real Sociedad , Barcelona]",1 - 6,3421
+LAL ,"Apr 5, 2021 ",W,"[Barcelona, Valladolid ]",1 - 0,3421
+LAL ,"Apr 10, 2021 ",L,"[Real Madrid, Barcelona ]",2 - 1,3421
+CDR ,"Apr 17, 2021 ",W,"[Athletic , Barcelona]",0 - 4,3142
+LAL ,"Apr 22, 2021 ",W,"[Barcelona, Getafe ]",5 - 2,352
+LAL ,"Apr 25, 2021 ",W,"[Villarreal , Barcelona]",1 - 2,3142
+LAL ,"Apr 29, 2021 ",L,"[Barcelona , Granada]",1 - 2,3142
+LAL ,"May 2, 2021 ",W,"[Valencia , Barcelona]",2 - 3,3142
+LAL ,"May 8, 2021 ",D,"[Barcelona , Atletico Madrid ]",0 - 0,3142
+LAL ,"May 11, 2021 ",D,"[Levante ,  Barcelona ]",3 - 3,3142
+LAL ,"May 16, 2021 ",L,"[Barcelona , Celta]",1 - 2,3142
+LAL ,"May 22, 2021 ",W,"[Eibar , Barcelona]",0 - 1,3421

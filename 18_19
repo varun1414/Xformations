@@ -1,0 +1,60 @@
+comp,date,result,teams,score,formation
+LAL ,"Aug 18, 2018 ",W,"[Barcelona, Alavés ]",3 - 0,442
+LAL ,"Aug 25, 2018 ",W,"[Valladolid , Barcelona]",0 - 1,433
+LAL ,"Sep 2, 2018 ",W,"[Barcelona, Huesca ]",8 - 2,433
+LAL ,"Sep 15, 2018 ",W,"[Real Sociedad , Barcelona]",1 - 2,433
+UCL ,"Sep 18, 2018 ",W,"[Barcelona, PSV ]",4 - 0,433
+LAL ,"Sep 23, 2018 ",D,"[Barcelona , Girona ]",2 - 2,433
+LAL ,"Sep 26, 2018 ",L,"[Leganés, Barcelona ]",2 - 1,433
+LAL ,"Sep 29, 2018 ",D,"[Barcelona , Athletic ]",1 - 1,433
+UCL ,"Oct 3, 2018 ",W,"[Tottenham , Barcelona]",2 - 4,433
+LAL ,"Oct 7, 2018 ",D,"[Valencia , Barcelona ]",1 - 1,433
+LAL ,"Oct 20, 2018 ",W,"[Barcelona, Sevilla FC ]",4 - 2,433
+UCL ,"Oct 24, 2018 ",W,"[Barcelona, Inter ]",2 - 0,433
+LAL ,"Oct 28, 2018 ",W,"[Barcelona, Real Madrid ]",5 - 1,433
+CDR ,"Oct 31, 2018 ",W,"[Leonesa , Barcelona]",0 - 1,433
+LAL ,"Nov 3, 2018 ",W,"[Rayo Vallecano , Barcelona]",2 - 3,433
+UCL ,"Nov 6, 2018 ",D,"[Inter , Barcelona ]",1 - 1,433
+LAL ,"Nov 11, 2018 ",L,"[Barcelona , Real Betis]",3 - 4,433
+LAL ,"Nov 24, 2018 ",D,"[Atletico Madrid , Barcelona ]",1 - 1,442
+UCL ,"Nov 28, 2018 ",W,"[PSV , Barcelona]",1 - 2,433
+LAL ,"Dec 2, 2018 ",W,"[Barcelona, Villarreal ]",2 - 0,4141
+CDR ,"Dec 5, 2018 ",W,"[Barcelona, Leonesa  ]",4 - 1,433
+LAL ,"Dec 8, 2018 ",W,"[Espanyol , Barcelona]",0 - 4,433
+UCL ,"Dec 11, 2018 ",D,"[Barcelona , Tottenham ]",1 - 1,433
+LAL ,"Dec 16, 2018 ",W,"[Levante , Barcelona]",0 - 5,352
+LAL ,"Dec 22, 2018 ",W,"[Barcelona, Celta ]",2 - 0,433
+LAL ,"Jan 6, 2019 ",W,"[Getafe , Barcelona]",1 - 2,433
+CDR ,"Jan 10, 2019 ",L,"[Levante, Barcelona ]",2 - 1,3421
+LAL ,"Jan 13, 2019 ",W,"[Barcelona, Eibar ]",3 - 0,433
+CDR ,"Jan 17, 2019 ",W,"[Barcelona, Levante ]",3 - 0,433
+LAL ,"Jan 20, 2019 ",W,"[Barcelona, Leganés ]",3 - 1,433
+CDR ,"Jan 23, 2019 ",L,"[Sevilla FC, Barcelona ]",2 - 0,433
+LAL ,"Jan 27, 2019 ",W,"[Girona , Barcelona]",0 - 2,433
+CDR ,"Jan 30, 2019 ",W,"[Barcelona, Sevilla FC ]",6 - 1,433
+LAL ,"Feb 2, 2019 ",D,"[Barcelona , Valencia ]",2 - 2,433
+CDR ,"Feb 6, 2019 ",D,"[Barcelona , Real Madrid ]",1 - 1,433
+LAL ,"Feb 10, 2019 ",D,"[Athletic , Barcelona ]",0 - 0,433
+LAL ,"Feb 16, 2019 ",W,"[Barcelona, Valladolid ]",1 - 0,433
+UCL ,"Feb 19, 2019 ",D,"[Lyon , Barcelona ]",0 - 0,433
+LAL ,"Feb 23, 2019 ",W,"[Sevilla FC , Barcelona]",2 - 4,433
+CDR ,"Feb 27, 2019 ",W,"[Real Madrid , Barcelona]",0 - 3,442
+LAL ,"Mar 2, 2019 ",W,"[Real Madrid , Barcelona]",0 - 1,433
+LAL ,"Mar 9, 2019 ",W,"[Barcelona, Rayo Vallecano ]",3 - 1,433
+UCL ,"Mar 13, 2019 ",W,"[Barcelona, Lyon ]",5 - 1,433
+LAL ,"Mar 17, 2019 ",W,"[Real Betis , Barcelona]",1 - 4,442
+LAL ,"Mar 30, 2019 ",W,"[Barcelona, Espanyol ]",2 - 0,433
+LAL ,"Apr 2, 2019 ",D,"[Villarreal , Barcelona ]",4 - 4,433
+LAL ,"Apr 6, 2019 ",W,"[Barcelona, Atletico Madrid ]",2 - 0,433
+UCL ,"Apr 10, 2019 ",W,"[Man Utd , Barcelona]",0 - 1,433
+LAL ,"Apr 13, 2019 ",D,"[Huesca , Barcelona ]",0 - 0,3142
+UCL ,"Apr 16, 2019 ",W,"[Barcelona, Man Utd ]",3 - 0,433
+LAL ,"Apr 20, 2019 ",W,"[Barcelona, Real Sociedad ]",2 - 1,433
+LAL ,"Apr 23, 2019 ",W,"[Alavés , Barcelona]",0 - 2,433
+LAL ,"Apr 27, 2019 ",W,"[Barcelona, Levante ]",1 - 0,433
+UCL ,"May 1, 2019 ",W,"[Barcelona, Liverpool ]",3 - 0,433
+LAL ,"May 4, 2019 ",L,"[Celta, Barcelona ]",2 - 0,433
+UCL ,"May 7, 2019 ",L,"[Liverpool, Barcelona ]",4 - 0,442
+LAL ,"May 12, 2019 ",W,"[Barcelona, Getafe ]",2 - 0,433
+LAL ,"May 19, 2019 ",D,"[Eibar , Barcelona ]",2 - 2,433
+CDR ,"May 25, 2019 ",L,"[Barcelona , Valencia]",1 - 2,4141

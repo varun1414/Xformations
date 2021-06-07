@@ -1,0 +1,62 @@
+comp,date,result,teams,score,formation
+SSC ,"Aug 14, 2015 ",L,"[Athletic, Barcelona ]",4 - 0,None
+SSC ,"Aug 17, 2015 ",D,"[Barcelona , Athletic ]",1 - 1,None
+LAL ,"Aug 23, 2015 ",W,"[Athletic , Barcelona]",0 - 1,433
+LAL ,"Aug 29, 2015 ",W,"[Barcelona, Málaga ]",1 - 0,433
+LAL ,"Sep 12, 2015 ",W,"[Atletico Madrid , Barcelona]",1 - 2,433
+UCL ,"Sep 16, 2015 ",D,"[Roma , Barcelona ]",1 - 1,433
+LAL ,"Sep 20, 2015 ",W,"[Barcelona, Levante ]",4 - 1,433
+LAL ,"Sep 23, 2015 ",L,"[Celta, Barcelona ]",4 - 1,433
+LAL ,"Sep 26, 2015 ",W,"[Barcelona, Las Palmas ]",2 - 1,433
+UCL ,"Sep 29, 2015 ",W,"[Barcelona, Leverkusen ]",2 - 1,433
+LAL ,"Oct 3, 2015 ",L,"[Sevilla FC, Barcelona ]",2 - 1,433
+LAL ,"Oct 17, 2015 ",W,"[Barcelona, Rayo Vallecano ]",5 - 2,433
+UCL ,"Oct 20, 2015 ",W,"[BATE , Barcelona]",0 - 2,433
+LAL ,"Oct 25, 2015 ",W,"[Barcelona, Eibar ]",3 - 1,433
+CDR ,"Oct 28, 2015 ",D,"[Villanovense , Barcelona ]",0 - 0,None
+LAL ,"Oct 31, 2015 ",W,"[Getafe , Barcelona]",0 - 2,433
+UCL ,"Nov 4, 2015 ",W,"[Barcelona, BATE ]",3 - 0,41221
+LAL ," Nov 8, 2015 ",W,"[Barcelona, Villarreal ]",3 - 0,433
+LAL ,"Nov 21, 2015 ",W,"[Real Madrid , Barcelona]",0 - 4,433
+UCL ,"Nov 24, 2015 ",W,"[Barcelona, Roma ]",6 - 1,433
+LAL ,"Nov 28, 2015 ",W,"[Barcelona, Real Sociedad ]",4 - 0,433
+CDR ,"Dec 2, 2015 ",W,"[Barcelona, Villanovense ]",6 - 1,None
+LAL	 ,"Dec 5, 2015 ",D,"[Valencia , Barcelona ]",1 - 1,433
+UCL ,"Dec 9, 2015 ",D,"[Leverkusen , Barcelona ]",1 - 1,433
+LAL ,"Dec 12, 2015 ",D,"[Barcelona , Deportivo ]",2 - 2,433
+CWC ,"Dec 17, 2015 ",W,"[Barcelona, Guangzhou FC ]",3 - 0,None
+CWC ,"Dec 20, 2015 ",W,"[River Plate , Barcelona]",0 - 3,None
+ LAL ,"Dec 30, 2015 ",W,"[Barcelona, Real Betis ]",4 - 0,433
+LAL ,"Jan 2, 2016 ",D,"[Espanyol , Barcelona ]",0 - 0,433
+CDR ,"Jan 6, 2016 ",W,"[Barcelona, Espanyol ]",4 - 1,None
+LAL ,"Jan 9, 2016 ",W,"[Barcelona, Granada ]",4 - 0,433
+CDR ,"Jan 13, 2016 ",W,"[Espanyol , Barcelona]",0 - 2,None
+LAL ,"Jan 17, 2016 ",W,"[Barcelona, Athletic ]",6 - 0,433
+CDR ,"Jan 20, 2016 ",W,"[ Athletic , Barcelona]",1 - 2,None
+LAL ,"Jan 23, 2016 ",W,"[Málaga , Barcelona]",1 - 2,433
+CDR ,"Jan 27, 2016 ",W,"[Barcelona, Athletic ]",3 - 1,None
+LAL ,"Jan 30, 2016 ",W,"[Barcelona, Atletico Madrid ]",2 - 1,433
+CDR ,"Feb 3, 2016 ",W,"[Barcelona, Valencia ]",7 - 0,None
+LAL ,"Feb 7, 2016 ",W,"[Levante , Barcelona]",0 - 2,433
+CDR ,"Feb 10, 2016 ",D,"[Valencia , Barcelona ]",1 - 1,None
+LAL ,"Feb 14, 2016 ",W,"[Barcelona, Celta ]",6 - 1,433
+LAL ,"Feb 17, 2016 ",W,"[Gijón , Barcelona]",1 - 3,433
+LAL ,"Feb 20, 2016 ",W,"[Las Palmas , Barcelona]",1 - 2,433
+UCL ,"Feb 23, 2016 ",W,"[Arsenal  , Barcelona]",0 - 2,433
+LAL ,"Feb 28, 2016 ",W,"[Barcelona, Sevilla FC ]",2 - 1,433
+LAL ,"Mar 3, 2016 ",W,"[Rayo Vallecano , Barcelona]",1 - 5,433
+LAL ,"Mar 6, 2016 ",W,"[Eibar , Barcelona]",0 - 4,433
+LAL ,"Mar 12, 2016 ",W,"[Barcelona, Getafe ]",6 - 0,433
+UCL ,"Mar 16, 2016 ",W,"[Barcelona, Arsenal ]",3 - 1,433
+LAL ,"Mar 20, 2016 ",D,"[Villarreal , Barcelona ]",2 - 2,433
+LAL ,"Apr 2, 2016 ",L,"[Barcelona , Real Madrid]",1 - 2,433
+UCL ,"Apr 5, 2016 ",W,"[Barcelona, Atletico Madrid ]",2 - 1,433
+LAL ,"Apr 9, 2016 ",L,"[Real Sociedad, Barcelona ]",1 - 0,433
+UCL ,"Apr 13, 2016 ",L,"[Atletico Madrid, Barcelona ]",2 - 0,433
+LAL ,"Apr 17, 2016 ",L,"[Barcelona , Valencia]",1 - 2,433
+LAL ,"Apr 20, 2016 ",W,"[Deportivo , Barcelona]",0 - 8,433
+LAL ,"Apr 23, 2016 ",W,"[Barcelona, Gijón ]",6 - 0,433
+LAL ,"Apr 30, 2016 ",W,"[Real Betis , Barcelona]",0 - 2,433
+LAL ,"May 8, 2016 ",W,"[Barcelona, Espanyol ]",5 - 0,433
+LAL ,"May 14, 2016 ",W,"[Granada , Barcelona]",0 - 3,433
+CDR ,"May 22, 2016 ",W,"[Barcelona, Sevilla FC ]",2 - 0,None

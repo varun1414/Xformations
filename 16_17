@@ -1,0 +1,59 @@
+comp,date,result,teams,score,formation
+SSC ,"Aug 17, 2016 ",W,"[Barcelona, Sevilla FC ]",3 - 0,433
+LAL ,"Aug 20, 2016 ",W,"[Barcelona, Real Betis ]",6 - 2,433
+LAL ,"Aug 28, 2016 ",W,"[Athletic , Barcelona]",0 - 1,433
+LAL ,"Sep 10, 2016 ",L,"[Barcelona , Alavés]",1 - 2,433
+UCL ,"Sep 13, 2016 ",W,"[Barcelona, Celtic ]",7 - 0,433
+LAL ,"Sep 17, 2016 ",W,"[Leganés , Barcelona]",1 - 5,3421
+LAL ,"Sep 21, 2016 ",D,"[Barcelona , Atletico Madrid ]",1 - 1,433
+LAL ,"Sep 24, 2016 ",W,"[Gijón , Barcelona]",0 - 5,433
+UCL ,"Sep 28, 2016 ",W,"[M'gladbach , Barcelona]",1 - 2,41221
+LAL ,"Oct 2, 2016 ",L,"[Celta, Barcelona ]",4 - 3,433
+LAL ,"Oct 15, 2016 ",W,"[Barcelona, Deportivo ]",4 - 0,433
+UCL ,"Oct 19, 2016 ",W,"[Barcelona, Man City ]",4 - 0,433
+LAL ,"Oct 22, 2016 ",W,"[Valencia , Barcelona]",2 - 3,433
+LAL ,"Oct 29, 2016 ",W,"[Barcelona, Granada ]",1 - 0,433
+UCL ,"Nov 1, 2016 ",L,"[Man City, Barcelona ]",3 - 1,433
+LAL  ,"Nov 6, 2016 ",W,"[Sevilla FC , Barcelona]",1 - 2,433
+LAL ,"Nov 19, 2016 ",D,"[Barcelona , Málaga ]",0 - 0,433
+UCL ,"Nov 23, 2016 ",W,"[Celtic , Barcelona]",0 - 2,433
+LAL ,"Nov 27, 2016 ",D,"[Real Sociedad , Barcelona ]",1 - 1,433
+CDR ,"Nov 30, 2016 ",D,"[Hércules , Barcelona ]",1 - 1,None
+LAL ,"Dec 3, 2016 ",D,"[Barcelona , Real Madrid ]",1 - 1,433
+UCL ,"Dec 6, 2016 ",W,"[Barcelona, M'gladbach ]",4 - 0,433
+LAL ,"Dec 10, 2016 ",W,"[Osasuna , Barcelona]",0 - 3,433
+LAL ,"Dec 18, 2016 ",W,"[Barcelona, Espanyol ]",4 - 1,433
+CDR ,"Dec 21, 2016 ",W,"[Barcelona, Hércules ]",7 - 0,None
+CDR ,"Jan 5, 2017 ",L,"[Athletic, Barcelona ]",2 - 1,None
+LAL ,"Jan 8, 2017 ",D,"[ Villarreal , Barcelona ]",1 - 1,433
+CDR ,"Jan 11, 2017 ",W,"[Barcelona, Athletic ]",3 - 1,None
+LAL ,"Jan 14, 2017 ",W,"[Barcelona, Las Palmas ]",5 - 0,433
+CDR ,"Jan 19, 2017 ",W,"[Real Sociedad , Barcelona]",0 - 1,None
+LAL ,"Jan 22, 2017 ",W,"[Eibar , Barcelona]",0 - 4,433
+CDR ,"Jan 26, 2017 ",W,"[Barcelona, Real Sociedad ]",5 - 2,None
+LAL ,"Jan 29, 2017 ",D,"[Real Betis , Barcelona ]",1 - 1,433
+CDR ,"Feb 1, 2017 ",W,"[Atletico Madrid , Barcelona]",1 - 2,None
+LAL ,"Feb 4, 2017 ",W,"[Barcelona, Athletic ]",3 - 0,433
+CDR ,"Feb 7, 2017 ",D,"[Barcelona , Atletico Madrid ]",1 - 1,None
+LAL ,"Feb 11, 2017 ",W,"[Alavés , Barcelona]",0 - 6,433
+UCL ,"Feb 14, 2017 ",L,"[PSG, Barcelona ]",4 - 0,433
+LAL ,"Feb 19, 2017 ",W,"[Barcelona,  Leganés ]",2 - 1,433
+LAL ,"Feb 26, 2017 ",W,"[Atletico Madrid , Barcelona]",1 - 2,433
+LAL ,"Mar 1, 2017 ",W,"[Barcelona, Gijón ]",6 - 1,433
+LAL ,"Mar 4, 2017 ",W,"[Barcelona, Celta ]",5 - 0,433
+UCL ,"Mar 8, 2017 ",W,"[Barcelona, PSG ]",6 - 1,3421
+LAL ,"Mar 12, 2017 ",L,"[Deportivo, Barcelona ]",2 - 1,3421
+LAL ,"Mar 19, 2017 ",W,"[Barcelona, Valencia ]",4 - 2,3421
+LAL ,"Apr 2, 2017 ",W,"[Granada , Barcelona]",1 - 4,4141
+LAL ,"Apr 5, 2017 ",W,"[Barcelona, Sevilla FC ]",3 - 0,31213
+LAL ,"Apr 8, 2017 ",L,"[Málaga, Barcelona ]",2 - 0,433
+UCL ,"Apr 11, 2017 ",L,"[Juventus, Barcelona ]",3 - 0,433
+LAL ,"Apr 15, 2017 ",W,"[Barcelona, Real Sociedad ]",3 - 2,41212
+UCL ,"Apr 19, 2017 ",D,"[Barcelona , Juventus ]",0 - 0,433
+LAL ,"Apr 23, 2017 ",W,"[Real Madrid , Barcelona]",2 - 3,4312
+LAL ,"Apr 26, 2017 ",W,"[Barcelona, Osasuna ]",7 - 1,3142
+LAL ,"Apr 29, 2017 ",W,"[Espanyol , Barcelona]",0 - 3,433
+LAL ,"May 6, 2017 ",W,"[Barcelona, Villarreal ]",4 - 1,433
+LAL ,"May 14, 2017 ",W,"[Las Palmas , Barcelona]",1 - 4,433
+LAL ,"May 21, 2017 ",W,"[Barcelona, Eibar ]",4 - 2,433
+CDR ,"May 27, 2017 ",W,"[Barcelona, Alavés ]",3 - 1,None

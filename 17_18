@@ -1,0 +1,59 @@
+comp,date,result,teams,score,formation
+SSC ,"Aug 16, 2017 ",L,"[Real Madrid, Barcelona ]",2 - 0,352
+LAL ,"Aug 20, 2017 ",W,"[Barcelona, Real Betis ]",2 - 0,4411
+LAL ,"Aug 26, 2017 ",W,"[Alavés , Barcelona]",0 - 2,433
+LAL ,"Sep 9, 2017 ",W,"[Barcelona, Espanyol ]",5 - 0,442
+UCL ,"Sep 12, 2017 ",W,"[Barcelona, Juventus ]",3 - 0,433
+LAL ,"Sep 16, 2017 ",W,"[Getafe , Barcelona]",1 - 2,433
+LAL ,"Sep 19, 2017 ",W,"[Barcelona, Eibar ]",6 - 1,433
+LAL ,"Sep 23, 2017 ",W,"[Girona , Barcelona]",0 - 3,442
+UCL ,"Sep 27, 2017 ",W,"[Sporting CP , Barcelona]",0 - 1,442
+LAL ,"Oct 1, 2017 ",W,"[Barcelona, Las Palmas ]",3 - 0,442
+LAL ,"Oct 14, 2017 ",D,"[Atletico Madrid , Barcelona ]",1 - 1,442
+UCL ,"Oct 18, 2017 ",W,"[Barcelona, Olympiakos ]",3 - 1,433
+LAL ,"Oct 21, 2017 ",W,"[Barcelona, Málaga ]",2 - 0,442
+CDR ,"Oct 24, 2017 ",W,"[Real Murcia , Barcelona]",0 - 3,None
+LAL ,"Oct 28, 2017 ",W,"[Athletic , Barcelona]",0 - 2,442
+UCL ,"Oct 31, 2017 ",D,"[Olympiakos , Barcelona ]",0 - 0,442
+LAL ,"Nov 4, 2017 ",W,"[Barcelona, Sevilla FC ]",2 - 1,442
+LAL ,"Nov 18, 2017 ",W,"[Leganés , Barcelona]",0 - 3,442
+UCL ,"Nov 22, 2017 ",D,"[Juventus , Barcelona ]",0 - 0,4231
+LAL ,"Nov 26, 2017 ",D,"[Valencia , Barcelona ]",1 - 1,442
+CDR ,"Nov 29, 2017 ",W,"[Barcelona, Real Murcia ]",5 - 0,None
+LAL ,"Dec 2, 2017 ",D,"[Barcelona , Celta ]",2 - 2,41212
+UCL ,"Dec 5, 2017 ",W,"[Barcelona, Sporting CP ]",2 - 0,433
+LAL ,"Dec 10, 2017 ",W,"[Villarreal , Barcelona]",0 - 2,442
+LAL ,"Dec 17, 2017 ",W,"[Barcelona, Deportivo ]",4 - 0,442
+LAL ,"Dec 23, 2017 ",W,"[Real Madrid , Barcelona]",0 - 3,442
+CDR ,"Jan 4, 2018 ",D,"[Celta , Barcelona ]",1 - 1,None
+LAL ,"Jan 7, 2018 ",W,"[Barcelona, Levante ]",3 - 0,442
+CDR ,"Jan 11, 2018 ",W,"[Barcelona, Celta ]",5 - 0,None
+LAL ,"Jan 14, 2018 ",W,"[Real Sociedad , Barcelona]",2 - 4,442
+CDR ,"Jan 17, 2018 ",L,"[Espanyol, Barcelona ]",1 - 0,None
+LAL ,"Jan 21, 2018 ",W,"[Real Betis , Barcelona]",0 - 5,442
+CDR ,"Jan 25, 2018 ",W,"[Barcelona, Espanyol ]",2 - 0,None
+LAL ,"Jan 28, 2018 ",W,"[Barcelona, Alavés ]",2 - 1,442
+CDR ,"Feb 1, 2018 ",W,"[Barcelona, Valencia ]",1 - 0,None
+LAL ,"Feb 4, 2018 ",D,"[Espanyol , Barcelona ]",1 - 1,433
+CDR ,"Feb 8, 2018 ",W,"[Valencia , Barcelona]",0 - 2,None
+LAL ,"Feb 11, 2018 ",D,"[Barcelona , Getafe ]",0 - 0,442
+LAL ,"Feb 17, 2018 ",W,"[Eibar , Barcelona]",0 - 2,41212
+UCL ,"Feb 20, 2018 ",D,"[Chelsea , Barcelona ]",1 - 1,442
+LAL ,"Feb 24, 2018 ",W,"[Barcelona, Girona ]",6 - 1,442
+LAL ,"Mar 1, 2018 ",D,"[Las Palmas , Barcelona ]",1 - 1,442
+LAL ,"Mar 4, 2018 ",W,"[Barcelona, Atletico Madrid ]",1 - 0,442
+LAL ,"Mar 10, 2018 ",W,"[Málaga , Barcelona]",0 - 2,433
+UCL ,"Mar 14, 2018 ",W,"[Barcelona, Chelsea ]",3 - 0,442
+LAL ,"Mar 18, 2018 ",W,"[Barcelona, Athletic ]",2 - 0,442
+LAL ,"Mar 31, 2018 ",D,"[Sevilla FC , Barcelona ]",2 - 2,433
+UCL ,"Apr 4, 2018 ",W,"[Barcelona, Roma ]",4 - 1,442
+LAL ,"Apr 7, 2018 ",W,"[Barcelona, Leganés ]",3 - 1,4231
+UCL ,"Apr 10, 2018 ",L,"[Roma, Barcelona ]",3 - 0,442
+LAL ,"Apr 14, 2018 ",W,"[Barcelona, Valencia ]",2 - 1,442
+LAL ,"Apr 17, 2018 ",D,"[Celta , Barcelona ]",2 - 2,4231
+CDR ,"Apr 21, 2018 ",W,"[Sevilla FC , Barcelona]",0 - 5,None
+LAL ,"Apr 29, 2018 ",W,"[Deportivo , Barcelona]",2 - 4,433
+LAL ,"May 6, 2018 ",D,"[Barcelona , Real Madrid ]",2 - 2,442
+LAL ,"May 9, 2018 ",W,"[Barcelona, Villarreal ]",5 - 1,433
+LAL ,"May 13, 2018 ",L,"[Levante, Barcelona ]",5 - 4,4231
+LAL ,"May 20, 2018 ",W,"[Barcelona, Real Sociedad ]",1 - 0,433

@@ -1,0 +1,50 @@
+comp,date,result,teams,score,formation
+LAL ,"Aug 25, 2019 ",W,"[Barcelona, Real Betis ]",5 - 2,433
+LAL ,"Aug 31, 2019 ",D,"[Osasuna , Barcelona ]",2 - 2,433
+LAL ,"Sep 14, 2019 ",W,"[Barcelona, Valencia ]",5 - 2,433
+UCL ,"Sep 17, 2019 ",D,"[Dortmund , Barcelona ]",0 - 0,433
+LAL ,"Sep 21, 2019 ",L,"[Granada, Barcelona ]",2 - 0,433
+LAL ,"Sep 24, 2019 ",W,"[Barcelona, Villarreal ]",2 - 1,433
+LAL ,"Sep 28, 2019 ",W,"[Getafe , Barcelona]",0 - 2,433
+UCL ,"Oct 2, 2019 ",W,"[Barcelona,  Inter ]",2 - 1,433
+LAL ,"Oct 6, 2019 ",W,"[Barcelona, Sevilla FC ]",4 - 0,433
+LAL ,"Oct 19, 2019 ",W,"[Eibar , Barcelona]",0 - 3,433
+UCL ,"Oct 23, 2019 ",W,"[Slavia Praha , Barcelona]",1 - 2,433
+LAL ,"Oct 29, 2019 ",W,"[Barcelona, Valladolid ]",5 - 1,433
+LAL ,"Nov 2, 2019 ",L,"[Levante, Barcelona ]",3 - 1,433
+UCL ,"Nov 5, 2019 ",D,"[Barcelona , Slavia Praha ]",0 - 0,4231
+LAL ,"Nov 9, 2019 ",W,"[Barcelona, Celta ]",4 - 1,433
+LAL ,"Nov 23, 2019 ",W,"[Leganés , Barcelona]",1 - 2,4231
+UCL ,"Nov 27, 2019 ",W,"[Barcelona, Dortmund ]",3 - 1,433
+LAL ,"Dec 1, 2019 ",W,"[Atletico Madrid , Barcelona]",0 - 1,433
+LAL ,"Dec 7, 2019 ",W,"[Barcelona, Mallorca ]",5 - 2,433
+UCL ,"Dec 10, 2019 ",W,"[Inter , Barcelona]",1 - 2,3142
+LAL ,"Dec 14, 2019 ",D,"[Real Sociedad , Barcelona ]",2 - 2,433
+LAL ,"Dec 18, 2019 ",D,"[Barcelona , Real Madrid ]",0 - 0,433
+LAL ,"Dec 21, 2019 ",W,"[Barcelona,  Alavés ]",4 - 1,433
+LAL ,"Jan 4, 2020 ",D,"[Espanyol , Barcelona ]",2 - 2,433
+SSC ,"Jan 9, 2020 ",L,"[Barcelona , Atletico Madrid]",2 - 3,433
+LAL ,"Jan 19, 2020 ",W,"[Barcelona, Granada ]",1 - 0,3142
+CDR ,"Jan 22, 2020 ",W,"[Ibiza , Barcelona]",1 - 2,3142
+LAL ,"Jan 25, 2020 ",L,"[Valencia, Barcelona ]",2 - 0,3142
+CDR ,"Jan 30, 2020 ",W,"[Barcelona, Leganés ]",5 - 0,433
+LAL ,"Feb 2, 2020 ",W,"[Barcelona, Levante ]",2 - 1,433
+CDR ,"Feb 6, 2020 ",L,"[Athletic, Barcelona ]",1 - 0,433
+LAL ,"Feb 9, 2020 ",W,"[Real Betis , Barcelona]",2 - 3,41212
+LAL ,"Feb 15, 2020 ",W,"[Barcelona, Getafe ]",2 - 1,433
+LAL ,"Feb 22, 2020 ",W,"[Barcelona, Eibar ]",5 - 0,433
+UCL ,"Feb 25, 2020 ",D,"[Napoli , Barcelona ]",1 - 1,433
+LAL ,"Mar 1, 2020 ",L,"[Real Madrid, Barcelona ]",2 - 0,442
+LAL ,"Mar 7, 2020 ",W,"[Barcelona, Real Sociedad ]",1 - 0,433
+LAL ,"Jun 13, 2020 ",W,"[Mallorca , Barcelona]",0 - 4,433
+LAL ,"Jun 16, 2020 ",W,"[Barcelona, Leganés ]",2 - 0,433
+LAL ,"Jun 19, 2020 ",D,"[Sevilla FC , Barcelona ]",0 - 0,442
+LAL ,"Jun 23, 2020 ",W,"[Barcelona, Athletic ]",1 - 0,433
+LAL ,"Jun 27, 2020 ",D,"[Celta , Barcelona ]",2 - 2,433
+LAL ,"Jun 30, 2020 ",D,"[Barcelona , Atletico Madrid ]",2 - 2,4312
+LAL ,"Jul 5, 2020 ",W,"[Villarreal , Barcelona]",1 - 4,41212
+LAL ,"Jul 8, 2020 ",W,"[Barcelona, Espanyol ]",1 - 0,4312
+LAL ,"Jul 11, 2020 ",W,"[Valladolid , Barcelona]",0 - 1,41212
+LAL ,"Jul 16, 2020 ",L,"[Barcelona , Osasuna]",1 - 2,433
+LAL ,"Jul 19, 2020 ",W,"[Alavés , Barcelona]",0 - 5,433
+UCL ,"Aug 8, 2020 ",W,"[Barcelona, Napoli ]",3 - 1,433
