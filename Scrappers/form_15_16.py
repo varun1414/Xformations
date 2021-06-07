@@ -34,5 +34,5 @@ for match in matches:
     match["score"]=clean(match["score"])
     match["formation"]=clean(match["formation"])
 
-print(matches)
+
 
